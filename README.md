@@ -1,12 +1,12 @@
-# Frontend Development
+# 前端开发
 
-+ Guides
++ 指南
     + [Hack Design](http://hackdesign.org/courses/)
     + [Designer School](http://designer-school.com/)
     + [TheExpressiveWeb](http://beta.theexpressiveweb.com/)
     + [Talks To Help You Become A Better Front-End Engineer In 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
     + [Web Development Teaching Materials](http://www.teaching-materials.org/)
-+ Architecture
++ 架构
     + [BEM](http://bem.info/method/)
     + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
         + [GitHub](https://github.com/bradfrost/patternlab)
@@ -27,7 +27,7 @@
     + [jQuery Application Architecture Chart](http://addyosmani.com/resources/toolschart/chart.pdf)
     + [How To Manage Large jQuery Apps](http://www.slideshare.net/SlexAxton/how-to-manage-large-jquery-apps)
     + [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
-+ Workflow
++ 工作流
     + [Video: Javascript Development Workflow of 2013 by Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo) + [Slides](http://dl.dropboxusercontent.com/u/39519/talks/fluent/index.html)
     + [Yeoman](http://yeoman.io/) is a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
     + [Grunt](http://gruntjs.com/) is a task-based command line build tool for JavaScript projects.
@@ -50,12 +50,12 @@
     + [Automaton](http://indigounited.com/automaton/): Task automation tool built in JavaScript.
     + [Cartero](https://github.com/rotundasoftware/cartero)
     + [Mod](https://github.com/modulejs/modjs) is a task-based workflow tooling for web, it help developers quickly build robust and high-performance web applications.
-+ Frameworks
++ 框架
     + JavaScript
         + [Choosing a framework](http://todomvc.com/)
         + [Angular](http://angularjs.org/)
             + [Github](https://github.com/angular/angular.js)
-            + Learning
+            + 学习
                 + [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning): huge list of Angular learning resources
                 + [AngularJS Screencasts](http://www.egghead.io/)
                 + [Building Huuuuuge Apps with AngularJS](http://briantford.com/blog/huuuuuge-angular-apps.html)
@@ -65,7 +65,7 @@
                 + [AngularJS vs Ember](http://eviltrout.com/2013/06/15/ember-vs-angular.html)
                 + [The Hitchhiker’s Guide to the Directive](http://amitgharat.wordpress.com/2013/06/08/the-hitchhikers-guide-to-the-directive/)
                 + [Frontend Workflows with Grunt and Angular JS](http://youtu.be/fSAgFxjFSqY)
-            + Integration
+            + 集成
                 + [angular-requirejs-seed](https://github.com/tnajdek/angular-requirejs-seed): this is a fork of Angular Seed but with changes needed for requireJS support.
                 + [Writing Reusable AngularJS Components with Bower](http://briantford.com/blog/angular-bower.html)
                 + [Native AngularJS directives for Twitter's Bootstrap.](http://angular-ui.github.io/bootstrap/)
@@ -199,12 +199,12 @@
         + [Axis](http://roots.cx/axis/) - clean Stylus-based foundation to build your styles upon
         + [Jeet](http://jeetframework.com/) next gen responsive grid
         + [Susy](http://susy.oddbird.net/) - Responsive grids for Compass
-+ Cross Browser
++ 跨浏览器
     + [Normalize.css](http://nicolasgallagher.com/about-normalize-css/)
     + [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
     + [Viewport Component](https://github.com/pazguille/viewport)
-+ Cross Device
-    + Responsive
++ 跨设备
+    + 响应式
         + [Video: Responsive Design Workflow by Stephen Hay](http://vimeo.com/45915667) + [Slides](http://de.slideshare.net/stephenhay/mobilism2012)
         + [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
             + [Responsive Navigation Patterns](http://bradfrostweb.com/blog/web/responsive-nav-patterns/)
@@ -309,7 +309,7 @@
     + [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
     + [CSS3 Code Snippets](http://www.webinterfacelab.com/snippets/)
     + The [Blueprints](http://tympanus.net/codrops/category/blueprints/) are a collection of basic and minimal website concepts, components, plugins and layouts with minimal style for easy adaption and usage, or simply for inspiration.
-+ DOM Manipulation
++ DOM 操作
     + [xui](http://xuijs.com/): a super micro tiny dom library for authoring html5 mobile web applications.
     + [Tire](http://tirejs.com/) offers a more lightweight alternative to libraries such as jQuery, Prototype and Zepto.
 + Typography

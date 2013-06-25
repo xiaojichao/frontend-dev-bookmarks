@@ -118,7 +118,7 @@
             + [Github](https://github.com/twitter/bootstrap/)
             + [Download](http://twitter.github.com/bootstrap/assets/bootstrap.zip)
             + [Bootstrap Hero List](http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources): The big badass list of bootstrap resources
-            + Widgets
+            + 组件
                 + [Color and Date Picker](http://www.eyecon.ro/colorpicker-and-datepicker-for-twitter-bootstrap.htm)
                 + [WYSIHTML5 RTE for Bootstrap](http://jhollingworth.github.com/bootstrap-wysihtml5/)
                 + [Bootstrap Image Gallery](http://blueimp.github.com/Bootstrap-Image-Gallery/)
@@ -139,7 +139,7 @@
                 + [Pagination](https://github.com/markbates/jquery-bootstrap-pagination)
                 + [Slider](http://ghusse.github.com/jQRangeSlider/)
                 + [Application Wizard](https://github.com/amoffat/bootstrap-application-wizard)
-            + Themes
+            + 主题
                 + [Bootswatch](http://bootswatch.com/): Theme catalog.
                 + [Jumpstart UI](http://jumpstartui.com/): Another catalog for paid themes
                 + [Darkstrap](http://danneu.com/posts/4-darkstrap-css-a-dark-theme-for-twitter-bootstrap-2): A dark theme.
@@ -162,7 +162,7 @@
                 + [Google+](http://xbreaker.github.com/plusstrap/index.html)
                 + [Flatstrap](http://littlesparkvt.com/flatstrap/index.html)
                 + [Pinstrap](http://bragthemes.com/theme/pinstrap-pinterest-meets-bootstrap/)
-            + Misc
+            + 其它
                 + [Boilerstrap](https://github.com/emorikawa/boilerstrap): A blank slate for the modern web. Just add creativity.
                 + [Bootstrap GUI PSD](http://gui.repixdesign.com/#freebies): a toolkit designed to kickstart webdesign of webapps and sites.
                 + [Font Awesome](http://fortawesome.github.com/Font-Awesome/): The iconic font designed for use with Twitter Bootstrap
